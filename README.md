@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Somesh Sampat
-- 👀 I’m interested in Android
+- 👀 I’m interested in Android Internships.
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Android related Work
 - 📫 How to reach me - www.linkedin.com/in/someshsampat
